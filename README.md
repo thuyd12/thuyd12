@@ -16,6 +16,7 @@
 
  ### :hammer_and_wrench: Languages and Tools:
  <div>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://martech.org/wp-content/uploads/2022/09/Logo_Google_Analytics_1920x1080.png" title="Google Analytics 4" alt="Google Analytics 4" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
